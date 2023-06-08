@@ -1,4 +1,4 @@
-<div align="right"><img src="https://i.ibb.co/qgF6Z9Q/u.png" alt="bg" width:"100%" ></div>
+<div align="center"><img src="https://i.ibb.co/qgF6Z9Q/u.png" alt="bg" width:"100%" ></div>
 <h1 align="center">Hi 👋, I'm Riddhi Sonawane</h1>
 <h3 align="center">Innovating the Digital Landscape with Creative Code</h3>
 
