@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riddhiss19" alt="riddhiss19" /></a> </p>
  
-- 🌱 I’m currently learning **Django, ML and Deep Learning**
+- 🌱 I’m currently learning **Flutter Development**
 
 - 💬 Ask me about **UI/UX Design, Backend Development**
 
