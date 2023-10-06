@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Riddhi Sonawane</h1>
 <h3 align="center">Innovating the Digital Landscape with Creative Code</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riddhiss19" alt="riddhiss19" /></a> </p>
+<p align="left"> <a href="https://github.com/riddhiss19/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riddhiss19" alt="riddhiss19" /></a> </p>
  
 - 🌱 I’m currently learning **Flutter Development**
 
