@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **UI/UX Design, Backend Development**
 
-- 📫 How to reach me **riddhiss19@gmail.com**
+- 📫 How to reach me **riddhiss19@gmail.com** or <a href="https://riddhisonawane.netlify.app/contact" target="__blank" >Contact Here</a>
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
