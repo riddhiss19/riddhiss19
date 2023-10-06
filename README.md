@@ -6,7 +6,7 @@
  
 - 🌱 I’m currently learning **Flutter Development**
 
-- 💬 Ask me about **UI/UX Design, Backend Development**
+- 💬 Ask me about **UI/UX Design**
 
 - 📫 How to reach me **riddhiss19@gmail.com** or <a href="https://riddhisonawane.netlify.app/contact" target="__blank" >Contact Here</a>
 
@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/riddhi-sonawane-ba8310205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riddhi-sonawane-ba8310205" height="30" width="40" /></a>
 <a href="https://medium.com/@riddhiss19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@riddhiss19" height="30" width="40" /></a>
 <a href="https://www.instagram.com/riddhi_sonawane18/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="riddhi_s" height="30" width="40" /></a>
+ <a href="https://riddhisonawane.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/portfolio.svg" alt="riddhi_s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
